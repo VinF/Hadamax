@@ -1,5 +1,10 @@
 # Hadamax Encoding: Elevating Performance in Model-Free Atari
-[![arXiv](https://img.shields.io/badge/arXiv-2505.15345-b31b1b.svg)](https://arxiv.org/abs/2505.15345)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.15345-b31b1b.svg)](https://arxiv.org/abs/2505.15345) 
+
+Advances in Neural Information Processing Systems (NeurIPS), 2025. 
+
+[Reviews](https://openreview.net/forum?id=iRQM8Ehgl9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions)) | 
+[Video](https://neurips.cc/virtual/2025/poster/116561)
 
 [Jacob E. Kooi](https://scholar.google.com/citations?user=GMcfK1MAAAAJ&hl=en), [Zhao Yang](https://yangzhao-666.github.io), [Vincent François-Lavet](http://vincent.francois-l.be)
 
