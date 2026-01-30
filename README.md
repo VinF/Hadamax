@@ -4,7 +4,8 @@
 Advances in Neural Information Processing Systems (NeurIPS), 2025. 
 
 [Reviews](https://openreview.net/forum?id=iRQM8Ehgl9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions)) | 
-[Video](https://neurips.cc/virtual/2025/poster/116561)
+[Video](https://neurips.cc/virtual/2025/poster/116561) | 
+[Data](https://huggingface.co/datasets/Zhao666/Hadamax_Atari)
 
 [Jacob E. Kooi](https://scholar.google.com/citations?user=GMcfK1MAAAAJ&hl=en), [Zhao Yang](https://yangzhao-666.github.io), [Vincent François-Lavet](http://vincent.francois-l.be)
 
@@ -26,6 +27,7 @@ After around 3 hours of training and 200M environment frames, the PQN-Hadamax va
   </tr>
 </table>
 
+You can download the **human normalized** scores of Hadamax-PQN on all 57 Atari games [here](https://huggingface.co/datasets/Zhao666/Hadamax_Atari).
 
 
 ## PQN Usage  (With Docker)
