@@ -40,6 +40,8 @@ Steps:
 4. Run a container: `bash docker/run_atari.sh`
 5. Test: `python purejaxql/pqn_atari_hadamax.py --ENCODER='hadamax' --ENV_NAME='Seaquest-v5'`.
 
+NB: Also use in the command at step 5 --WANDB_MODE='online' or --WANDB_MODE='offline' to keep track of the metrics.
+
 ## CleanRL's C51 Usage  (With requirements_cleanrl.txt)
 
 1. Create a virtual environment and activate it. For example, if you use conda, run `conda create -n myenv "python>=3.8,<3.11"` and then `conda activate myenv`
